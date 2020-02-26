@@ -1,8 +1,8 @@
 const canvas = document.querySelector('canvas');
 const ctx = canvas.getContext('2d');
 
-canvas.width = 200;
-canvas.height = 300;
+//canvas.width = 200;
+//canvas.height = 300;
 
 //wysokość i szerokość canvas
 const cw = canvas.width;
