@@ -1,6 +1,7 @@
 # pong-retro-game-js   v1.0
 
 A simple pong game written in javascript using canvas. The goal of the game was to pass the subject in the second year university of study in this language. The game has a few bugs that will be fixed in later versions.
+### The game is not optimized for mobile devices
 
 ## How to play
 ### easy method is to use a link to view the page.
@@ -13,4 +14,5 @@ GNU General Public License - Open source
 - Improving artificial intelligence would win
 - Improved key control
 - Strange behavior of the ball in contact with the corner of the paddle
+- Optimization for mobile devices
 - Greater code optimization
